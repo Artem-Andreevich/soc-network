@@ -1,4 +1,4 @@
 /build
-vscode
-idea
+.vscode
+.idea
 node_modules
